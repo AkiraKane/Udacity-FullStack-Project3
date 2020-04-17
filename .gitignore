@@ -3,6 +3,7 @@ venv/
 .vscode/
 __pycache__/
 test.db
+package-lock.json
 
 # OS generated files #
 ######################
